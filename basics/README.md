@@ -20,3 +20,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `7-movethatfile` Muevo el archivo betty de /tmp/ a /tmp/my_first_directory.
 
+- `8-firstdelete` Elimina el archivo betty. El archivo betty está en /tmp/my_first_directory
+
