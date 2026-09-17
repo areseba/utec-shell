@@ -24,3 +24,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `9-firstdirdeletion` Elimina el directorio my_first_directory que está en el directorio /tmp.
 
+-`10-back` Cambie el directorio de trabajo al anterior.
+
