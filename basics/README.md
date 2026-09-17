@@ -8,3 +8,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `1-listit` imprime en pantalla la lista de los elementos dentro del directorio donde estamos
 
+- `2-bring_me_home` cambia el directorio de trabajo al directorio home del usuario
+
