@@ -22,3 +22,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `8-firstdelete` Elimina el archivo betty. El archivo betty está en /tmp/my_first_directory
 
+- `9-firstdirdeletion` Elimina el directorio my_first_directory que está en el directorio /tmp.
+
