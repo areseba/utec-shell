@@ -18,3 +18,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `6-firstdirectory` Creo un script que cree un directorio llamado my_first_directory en el directorio /tmp/.
 
+- `7-movethatfile` Muevo el archivo betty de /tmp/ a /tmp/my_first_directory.
+
