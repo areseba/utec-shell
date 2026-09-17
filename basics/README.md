@@ -16,3 +16,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `5-listfilesdigitonly` Muestra el contenido del directorio actual con Formato largo, con los IDs de usuario y grupo mostrados numéricamente, y los archivos ocultos (que empiezan con .)
 
+- `6-firstdirectory` Creo un script que cree un directorio llamado my_first_directory en el directorio /tmp/.
+
