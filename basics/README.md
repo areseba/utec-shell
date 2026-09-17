@@ -32,3 +32,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `13-symbolic_link` Creo un enlace simbólico a /bin/ls, llamado __ls__. El enlace simbólico debe crearse en el directorio de trabajo actual.
 
+- `14-copy_html` Creo un script que copia  todos los archivos HTML del directorio de trabajo actual al directorio padre del directorio de trabajo, pero solo copia los archivos que no existían en el directorio padre del directorio de trabajo o que sean más nuevos que las versiones en el directorio padre del directorio de trabajo.
+
