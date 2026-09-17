@@ -10,3 +10,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `2-bring_me_home` cambia el directorio de trabajo al directorio home del usuario
 
+- `3-listfiles` Muestra el contenido del directorio actual en formato largo
+
