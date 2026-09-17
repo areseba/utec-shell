@@ -30,3 +30,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `12-file_type` El script imprime el tipo del archivo llamado iamafile. El archivo iamafile estará en el directorio /tmp cuando ejecutemos su script.
 
+- `13-symbolic_link` Creo un enlace simbólico a /bin/ls, llamado __ls__. El enlace simbólico debe crearse en el directorio de trabajo actual.
+
