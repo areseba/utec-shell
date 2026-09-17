@@ -24,7 +24,9 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `9-firstdirdeletion` Elimina el directorio my_first_directory que está en el directorio /tmp.
 
--`10-back` Cambie el directorio de trabajo al anterior.
+- `10-back` Cambie el directorio de trabajo al anterior.
 
 - `11-lists` El script enumera todos los archivos (incluso los que tienen nombres que comienzan con un carácter de punto, que normalmente están ocultos) en el directorio actual, en el directorio padre del directorio de trabajo y en el directorio /boot (en ese orden), en formato largo.
+
+- `12-file_type` El script imprime el tipo del archivo llamado iamafile. El archivo iamafile estará en el directorio /tmp cuando ejecutemos su script.
 
