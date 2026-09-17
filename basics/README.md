@@ -26,3 +26,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 -`10-back` Cambie el directorio de trabajo al anterior.
 
+- `11-lists` El script enumera todos los archivos (incluso los que tienen nombres que comienzan con un carácter de punto, que normalmente están ocultos) en el directorio actual, en el directorio padre del directorio de trabajo y en el directorio /boot (en ese orden), en formato largo.
+
