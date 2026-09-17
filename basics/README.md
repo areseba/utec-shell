@@ -12,5 +12,7 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `3-listfiles` Muestra el contenido del directorio actual en formato largo
 
-- `4-listmorefiles` Muestra l contenido del directorio actual, incluidos los archivos ocultos (que empiezan con .). Usa el formato largo.
+- `4-listmorefiles` Muestra el contenido del directorio actual, incluidos los archivos ocultos (que empiezan con .). Usa el formato largo.
+
+- `5-listfilesdigitonly` Muestra el contenido del directorio actual con Formato largo, con los IDs de usuario y grupo mostrados numéricamente, y los archivos ocultos (que empiezan con .)
 
