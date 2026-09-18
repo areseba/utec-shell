@@ -34,3 +34,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `14-copy_html` Creo un script que copia  todos los archivos HTML del directorio de trabajo actual al directorio padre del directorio de trabajo, pero solo copia los archivos que no existían en el directorio padre del directorio de trabajo o que sean más nuevos que las versiones en el directorio padre del directorio de trabajo.
 
+- `15-lets_move` Creo un script que mueva todos los archivos que comiencen con una letra mayúscula al directorio /tmp/u.
+
