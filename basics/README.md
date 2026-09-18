@@ -38,3 +38,5 @@ Esta carpeta contiene script de Bash de ejercicios.
 
 - `16-clean_emacs` Creo un script que elimine todos los archivos del directorio de trabajo actual que terminen con el carácter ~
 
+- `17-tree` Creo un script que cree los directorios welcome/, welcome/to/ y welcome/to/school en el directorio actual.
+
