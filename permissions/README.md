@@ -18,3 +18,5 @@ Esta carpeta contiene script de shell, permisos
 
 - `6-multiple_permissions` Escribe un script que añada permiso de ejecución al propietario y al grupo del propietario, y permiso de lectura a otros usuarios, al archivo hello.
 
+- `7-everybody` Escribe un script que añada permiso de ejecución al propietario, al grupo propietario y a los demás usuarios, al archivo hello
+
