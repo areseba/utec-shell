@@ -14,3 +14,5 @@ Esta carpeta contiene script de shell, permisos
 
 - `4-empty` Escribe un script que cree un archivo vacío llamado hello.
 
+- `5-execute` Escribe un script que añada permiso de ejecución al propietario del archivo hello.
+
