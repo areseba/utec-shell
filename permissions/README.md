@@ -12,3 +12,5 @@ Esta carpeta contiene script de shell, permisos
 
 - `3-new_owner` Escribe un script que cambie el propietario del archivo hello al usuario betty.
 
+- `4-empty` Escribe un script que cree un archivo vacío llamado hello.
+
