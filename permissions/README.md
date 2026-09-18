@@ -16,3 +16,5 @@ Esta carpeta contiene script de shell, permisos
 
 - `5-execute` Escribe un script que añada permiso de ejecución al propietario del archivo hello.
 
+- `6-multiple_permissions` Escribe un script que añada permiso de ejecución al propietario y al grupo del propietario, y permiso de lectura a otros usuarios, al archivo hello.
+
