@@ -10,3 +10,5 @@ Esta carpeta contiene script de shell, permisos
 
 - `2-groups` Escribe un script que imprima todos los grupos de los que forma parte el usuario actual.
 
+- `3-new_owner` Escribe un script que cambie el propietario del archivo hello al usuario betty.
+
