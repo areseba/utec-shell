@@ -22,7 +22,11 @@ Esta carpeta contiene script de shell, permisos
 
 - `8-James_Bond` Escribe un script que establezca los permisos del archivo hello de la siguiente manera:
 
-Propietario: sin permisos en absoluto
-Grupo: sin permisos en absoluto
-Otros usuarios: todos los permisos
+    -Propietario: sin permisos en absoluto
+    -Grupo: sin permisos en absoluto
+    -Otros usuarios: todos los permisos
+
+- `9-John_Doe` Escribe un script que establezca el modo del archivo hello en esto:
+
+    -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 
