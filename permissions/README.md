@@ -20,3 +20,9 @@ Esta carpeta contiene script de shell, permisos
 
 - `7-everybody` Escribe un script que añada permiso de ejecución al propietario, al grupo propietario y a los demás usuarios, al archivo hello
 
+- `8-James_Bond` Escribe un script que establezca los permisos del archivo hello de la siguiente manera:
+
+Propietario: sin permisos en absoluto
+Grupo: sin permisos en absoluto
+Otros usuarios: todos los permisos
+
