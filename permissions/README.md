@@ -30,3 +30,8 @@ Esta carpeta contiene script de shell, permisos
 
     -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 
+- `10-mirror_permissions` Escribe un script que establezca el modo del archivo hello igual al modo de olleh.
+
+     -El archivo hello estará en el directorio de trabajo
+     -El archivo olleh estará en el directorio de trabajo
+
