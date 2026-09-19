@@ -43,3 +43,5 @@ Esta carpeta contiene script de shell, permisos
 
 El archivo hello estará en el directorio de trabajo
 
+- `14-change_owner_and_group` Escribe un script que cambie el propietario a vincent y el grupo propietario a staff de todos los archivos y directorios en el directorio de trabajo.
+
