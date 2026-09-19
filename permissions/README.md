@@ -37,3 +37,5 @@ Esta carpeta contiene script de shell, permisos
 
 - `11-directories_permissions` Crea un script que agregue permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo propietario y todos los demás usuarios. Los archivos regulares no deben modificarse.
 
+- `12-directory_permissions` Crea un script que cree un directorio llamado my_dir con permisos 751 en el directorio de trabajo.
+
