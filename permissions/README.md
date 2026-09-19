@@ -35,3 +35,5 @@ Esta carpeta contiene script de shell, permisos
      -El archivo hello estará en el directorio de trabajo
      -El archivo olleh estará en el directorio de trabajo
 
+- `11-directories_permissions` Crea un script que agregue permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo propietario y todos los demás usuarios. Los archivos regulares no deben modificarse.
+
