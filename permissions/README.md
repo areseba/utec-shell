@@ -39,3 +39,7 @@ Esta carpeta contiene script de shell, permisos
 
 - `12-directory_permissions` Crea un script que cree un directorio llamado my_dir con permisos 751 en el directorio de trabajo.
 
+- `13-change_group` Escribe un script que cambie el grupo propietario a school para el archivo hello
+
+El archivo hello estará en el directorio de trabajo
+
