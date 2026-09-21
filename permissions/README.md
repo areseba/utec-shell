@@ -47,3 +47,6 @@ El archivo hello estará en el directorio de trabajo
 
 - `15-symbolic_link_permissions` Escribe un script que cambie el propietario y el grupo propietario de _hello a vincent y staff, respectivamente.
 
+- `16-if_only` Escribe un script que cambie el propietario del archivo hello a vincent solo si pertenece al usuario guillaume.
+ Escribe un script que cambie el propietario del archivo hello a vincent solo si pertenece al usuario guillaume.
+
