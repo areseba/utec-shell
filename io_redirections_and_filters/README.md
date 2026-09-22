@@ -10,3 +10,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `2-hellofile` Muestra el contenido del archivo /etc/passwd.
 
+- `3-twofiles` Mostrar el contenido de /etc/passwd y /etc/hosts
+
