@@ -12,3 +12,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `3-twofiles` Mostrar el contenido de /etc/passwd y /etc/hosts
 
+- `4-lastlines` Muestra las últimas 10 líneas de /etc/passwd
+
