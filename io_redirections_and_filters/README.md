@@ -8,3 +8,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `1-confused_smiley` Escribe un script que muestre un emoticono confundido "(Ôo)'
 
+- `2-hellofile` Muestra el contenido del archivo /etc/passwd.
+
