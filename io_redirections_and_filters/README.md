@@ -16,3 +16,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `5-firstlines` Muestra las primeras 10 líneas de /etc/passwd
 
+- `6-third_line` Escribe un script que muestre la tercera línea del archivo iacta
+
