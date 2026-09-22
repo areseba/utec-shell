@@ -18,3 +18,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `6-third_line` Escribe un script que muestre la tercera línea del archivo iacta
 
+- `7-file` Escribe un script de shell que cree un archivo llamado exactamente \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) que contenga el texto Best School seguido de una nueva línea.
+
