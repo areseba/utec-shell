@@ -14,3 +14,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `4-lastlines` Muestra las últimas 10 líneas de /etc/passwd
 
+- `5-firstlines` Muestra las primeras 10 líneas de /etc/passwd
+
