@@ -47,3 +47,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `19-AZ` Reemplaza todos los caracteres A y c de la entrada por Z y e, respectivamente.
 
+- `20-hiago` Crea un script que elimine todas las letras c y C de la entrada.
+
