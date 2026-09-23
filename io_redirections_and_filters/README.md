@@ -33,3 +33,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `12-newest_files` Crea un script que muestre los 10 archivos más recientes en el directorio actual.
 
+- `13-unique` Crea un script que tome una lista de palabras como entrada e imprima solo las palabras que aparecen exactamente una vez.
+
