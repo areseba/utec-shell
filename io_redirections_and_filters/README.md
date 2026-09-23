@@ -26,3 +26,8 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `10-no_more_js` Escribe un script que elimine todos los archivos regulares (no los directorios) con extensión .js que estén presentes en el directorio actual y en todos sus subdirectorios.
 
+- `11-directories` Escribe un script que cuente el número de directorios y subdirectorios en el directorio actual.
+
+   -No se deben tener en cuenta el directorio actual ni el directorio padre
+   -Se deben contar los directorios ocultos
+
