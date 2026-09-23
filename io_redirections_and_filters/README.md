@@ -20,3 +20,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `7-file` Escribe un script de shell que cree un archivo llamado exactamente \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) que contenga el texto Best School seguido de una nueva línea.
 
+- `8-cwd_state` Escribe un script que escriba en el archivo ls_cwd_content el resultado del comando ls -la. Si el archivo ls_cwd_content ya existe, debe ser sobrescrito. Si el archivo ls_cwd_content no existe, créalo.
+
