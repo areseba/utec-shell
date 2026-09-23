@@ -41,3 +41,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `16-whatsnext` Muestra las líneas que contienen el patrón "root" y 3 líneas después de ellas en el archivo /etc/passwd.
 
+- `17-hidethisword` Muestra todas las líneas del archivo /etc/passwd que no contienen el patrón "bin".
+
