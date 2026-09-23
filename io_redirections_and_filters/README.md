@@ -31,3 +31,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
    -No se deben tener en cuenta el directorio actual ni el directorio padre
    -Se deben contar los directorios ocultos
 
+- `12-newest_files` Crea un script que muestre los 10 archivos más recientes en el directorio actual.
+
