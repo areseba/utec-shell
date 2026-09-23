@@ -35,3 +35,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `13-unique` Crea un script que tome una lista de palabras como entrada e imprima solo las palabras que aparecen exactamente una vez.
 
+- `14-findthatword` Mostrar las líneas que contienen el patrón "root" del archivo /etc/passwd
+
