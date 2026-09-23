@@ -45,3 +45,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `18-letteronly` Muestra todas las líneas del archivo /etc/ssh/sshd_config que comiencen con una letra.
 
+- `19-AZ` Reemplaza todos los caracteres A y c de la entrada por Z y e, respectivamente.
+
