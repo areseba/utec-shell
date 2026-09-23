@@ -24,3 +24,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `9-duplicate_last_line` Escribe un script que duplique la última línea del archivo iacta
 
+- `10-no_more_js` Escribe un script que elimine todos los archivos regulares (no los directorios) con extensión .js que estén presentes en el directorio actual y en todos sus subdirectorios.
+
