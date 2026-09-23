@@ -22,3 +22,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `8-cwd_state` Escribe un script que escriba en el archivo ls_cwd_content el resultado del comando ls -la. Si el archivo ls_cwd_content ya existe, debe ser sobrescrito. Si el archivo ls_cwd_content no existe, créalo.
 
+- `9-duplicate_last_line` Escribe un script que duplique la última línea del archivo iacta
+
