@@ -39,3 +39,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `15-countthatword` Muestra el número de líneas que contienen el patrón "bin" en el archivo /etc/passwd
 
+- `16-whatsnext` Muestra las líneas que contienen el patrón "root" y 3 líneas después de ellas en el archivo /etc/passwd.
+
