@@ -43,3 +43,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `17-hidethisword` Muestra todas las líneas del archivo /etc/passwd que no contienen el patrón "bin".
 
+- `18-letteronly` Muestra todas las líneas del archivo /etc/ssh/sshd_config que comiencen con una letra.
+
