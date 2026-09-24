@@ -49,3 +49,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `20-hiago` Crea un script que elimine todas las letras c y C de la entrada.
 
+- `21-reverse` Escribe un script que invierta su entrada.
+
