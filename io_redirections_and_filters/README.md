@@ -51,3 +51,5 @@ La carpeta contiene script de Shell, redirecciones de entrada/salida y filtros
 
 - `21-reverse` Escribe un script que invierta su entrada.
 
+- `22-users_and_homes` Escribe un script que muestre todos los usuarios y sus directorios de inicio, ordenados por usuario.
+
