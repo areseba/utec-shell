@@ -11,3 +11,5 @@ Contiene script de Shell, archivos de inicialización, variables y expansiones
 - `2-path` El camino hacia el éxito es tomar acciones masivas y decididas
 Añade /action a la PATH. /action debe ser el último directorio que el shell revisa al buscar un programa.
 
+- `3-paths` Crea un script que cuente el número de directorios en el PATH.
+
