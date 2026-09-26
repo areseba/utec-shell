@@ -15,3 +15,5 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
 
 - `4-global_variables` Crea un script que liste las variables de entorno.
 
+- `5-local_variables` Crea un script que liste todas las variables locales y de entorno, y las funciones.
+
