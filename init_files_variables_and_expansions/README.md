@@ -13,3 +13,5 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
 
 - `3-paths` Crea un script que cuente el número de directorios en el PATH.
 
+- `4-global_variables` Crea un script que liste las variables de entorno.
+
