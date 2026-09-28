@@ -22,3 +22,8 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
    -Nombre: BEST
    -Valor: School
 
+- `7-create_global_variable` Crea un script que cree una nueva variable global.
+
+   -Nombre: BEST
+   -Valor: School
+
