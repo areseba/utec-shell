@@ -55,3 +55,8 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
 
   -El número se almacenará en la variable de entorno NUM.
 
+- `14-decimal_to_hexadecimal` Escribe un script que convierta un número de base 10 a base 16.
+
+  -El número en base 10 está almacenado en la variable de entorno DECIMAL
+  -El script debe mostrar el número en base 16, seguido de una nueva línea
+
