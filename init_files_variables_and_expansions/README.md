@@ -33,3 +33,8 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
 
    -POWER y DIVIDE son variables de entorno
 
+- `10-love_exponent_breath` Escribe un script que muestre el resultado de BREATH elevado a la potencia LOVE
+
+   -BREATH y LOVE son variables de entorno
+   -El script debe mostrar el resultado, seguido de una nueva línea
+
