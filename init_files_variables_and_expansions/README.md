@@ -27,3 +27,5 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
    -Nombre: BEST
    -Valor: School
 
+- `8-true_knowledge` Escribe un script que imprima el resultado de la suma de 128 con el valor almacenado en la variable de entorno TRUEKNOWLEDGE, seguido de una nueva línea.
+
