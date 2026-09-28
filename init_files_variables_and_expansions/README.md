@@ -43,3 +43,11 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
    -El número en base 2 se almacena en la variable de entorno BINARY
    -El script debe mostrar el número en base 10, seguido de un salto de línea
 
+- `12-combinations` Crea un script que imprima todas las combinaciones posibles de dos letras, excepto oo.
+
+  -Las letras son minúsculas, de a a z
+  -Una combinación por línea
+  -La salida debe estar ordenada alfabéticamente, empezando con aa
+  -No imprimas oo
+  -Tu archivo de script debe contener como máximo 64 caracteres
+
