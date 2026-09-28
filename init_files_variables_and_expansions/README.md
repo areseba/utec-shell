@@ -29,3 +29,7 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
 
 - `8-true_knowledge` Escribe un script que imprima el resultado de la suma de 128 con el valor almacenado en la variable de entorno TRUEKNOWLEDGE, seguido de una nueva línea.
 
+- `9-divide_and_rule` Escribe un script que imprima el resultado de POWER dividido por DIVIDE, seguido de una nueva línea.
+
+   -POWER y DIVIDE son variables de entorno
+
