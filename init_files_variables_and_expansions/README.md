@@ -38,3 +38,8 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
    -BREATH y LOVE son variables de entorno
    -El script debe mostrar el resultado, seguido de una nueva línea
 
+- `11-binary_to_decimal` Escribe un script que convierta un número de base 2 a base 10.
+
+   -El número en base 2 se almacena en la variable de entorno BINARY
+   -El script debe mostrar el número en base 10, seguido de un salto de línea
+
