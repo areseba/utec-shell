@@ -17,3 +17,8 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
 
 - `5-local_variables` Crea un script que liste todas las variables locales y de entorno, y las funciones.
 
+- `6-create_local_variable` Crea un script que cree una nueva variable local.
+
+   -Nombre: BEST
+   -Valor: School
+
