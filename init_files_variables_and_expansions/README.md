@@ -51,3 +51,7 @@ Añade /action a la PATH. /action debe ser el último directorio que el shell re
   -No imprimas oo
   -Tu archivo de script debe contener como máximo 64 caracteres
 
+- `13-print_float` Escribe un script que imprima un número con dos decimales, seguido de una nueva línea.
+
+  -El número se almacenará en la variable de entorno NUM.
+
